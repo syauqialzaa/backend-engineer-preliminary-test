@@ -1,4 +1,4 @@
-package main
+package basic_concepts
 
 import "fmt"
 
@@ -11,7 +11,7 @@ func (lc *LazyClass) UnusedMethod() {
 	fmt.Println("UnusedMethod called.")
 }
 
-func main() {
+func Coding() {
 	lazyObj := LazyClass{ data: 42 }
 	lazyObj.UnusedMethod()
 
