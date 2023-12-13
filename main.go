@@ -12,5 +12,6 @@ func main() {
 
 	// algorithm.SockMerchant()
 	// algorithm.CountingValleys()
-	algorithm.PseudoCode()
+	// algorithm.PseudoCode()
+	algorithm.LampsOnCount()
 }
