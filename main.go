@@ -11,5 +11,6 @@ func main() {
 	// basic_concepts.GetRestAPI()
 
 	// algorithm.SockMerchant()
-	algorithm.CountingValleys()
+	// algorithm.CountingValleys()
+	algorithm.PseudoCode()
 }
