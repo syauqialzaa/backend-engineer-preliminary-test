@@ -1,9 +1,14 @@
 package main
 
-import "preliminary_test/basic_concepts"
+import (
+	"preliminary_test/algorithm"
+	// "preliminary_test/basic_concepts"
+)
 
 func main() {
 	// basic_concepts.Coding()
-	basic_concepts.PostRestAPI()
-	basic_concepts.GetRestAPI()
+	// basic_concepts.PostRestAPI()
+	// basic_concepts.GetRestAPI()
+
+	algorithm.SockMerchant()
 }
